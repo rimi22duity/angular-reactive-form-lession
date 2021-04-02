@@ -1,0 +1,4 @@
+Asynchronous Operation : non blocking operations
+
+1. calling the server (AJAX)
+2. timer function (i.e setTimeOut function)
